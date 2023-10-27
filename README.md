@@ -11,23 +11,24 @@
   <a href="mailto:david.gmzherrera28@gmail.com">📫 Contacto</a>
 </p>
 
-### Lenguajes y Herramientas:
+### Desarrollador Móvil 📱
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1)
-![PHP](https://img.shields.io/badge/PHP-777BB4)
-![Java](https://img.shields.io/badge/Java-007396)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20)
-![AdonisJS](https://img.shields.io/badge/AdonisJS-220052)
-![Android](https://img.shields.io/badge/Android-3DDC84)
-![C++](https://img.shields.io/badge/C++-00599C)
-![C#](https://img.shields.io/badge/C%23-239120)
-
-### Proyectos Destacados:
+Como desarrollador móvil, he trabajado en varios proyectos para plataformas móviles, incluyendo aplicaciones para Android. Algunos de mis proyectos móviles destacados son:
 
 - [Juego del gatito en Android](https://github.com/dabidgmz/Android_JuegoGatito_practica6)
 - [Calculadora en Android](https://github.com/dabidgmz/Andorid_calculadora_practica3)
+
+### Desarrollador Web (Full Stack) 💻
+
+Como desarrollador web full stack, tengo experiencia en la creación de aplicaciones web completas, tanto en el lado del cliente como en el servidor. Mis habilidades incluyen:
+
+- Desarrollo front-end con HTML, CSS, JavaScript, React y Sass.
+- Desarrollo back-end con Node.js, Express, y bases de datos como MySQL.
+- Experiencia en el desarrollo de aplicaciones web dinámicas y escalables.
+
+### Bases de Datos 🗃️
+
+También tengo experiencia en el diseño y gestión de bases de datos. He trabajado con varios sistemas de gestión de bases de datos (DBMS) como MySQL, y he desarrollado aplicaciones que requieren una eficiente manipulación y almacenamiento de datos.
 
 ### Trofeos:
 
@@ -42,7 +43,3 @@
 Acerca de mí:
 
 Soy un estudiante apasionado por la programación, siempre en busca de aprender y mejorar mis habilidades. ¡Gracias por visitar mi perfil!
-
-
-
-
