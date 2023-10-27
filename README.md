@@ -2,16 +2,13 @@
   <img src="https://github.com/adam-pw/adam-pw/blob/main/assets/header.png" alt="Header">
 </p>
 
-### Hi 👋, I'm Adam Pithenwala
-Student at MITS, Gwalior 🌟.
+### Hola 👋, Soy David Herrera 🌟.
 
-![Profile Views](https://komarev.com/ghpvc/?username=adam-pw)
 
-🌱 I’m currently learning Web Development and other programming languages.
+🌱 Estoy en disposicion de aprender nuevos lemguajes de programacion.
 
-📫 How to reach me: adampithewan@gmail.com
+📫 david.gmzherrera28@gmail.com
 
-⚡ Fun fact: Food and Music 🎵 are the reasons to live.
 
 ### Connect with me:
 
