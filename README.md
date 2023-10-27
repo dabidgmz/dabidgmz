@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://github.com/adam-pw/adam-pw/blob/main/assets/header.png" alt="Header">
 </p>
 
 <h1 align="center">¡Hola! 👋 Soy David Herrera 🌟</h1>
@@ -38,9 +37,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&theme=radical)
 
-### Contribuciones:
 
-![Contribuciones](https://activity-graph.herokuapp.com/graph?username=adam-pw)
 
 Acerca de mí:
 
