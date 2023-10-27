@@ -30,8 +30,7 @@
 - [Calculadora en Android](https://github.com/dabidgmz/Andorid_calculadora_practica3)
 
 ### Trofeos:
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=adam-pw&theme=darkhub&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dabidgmz&theme=darkhub&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Estadísticas:
 
