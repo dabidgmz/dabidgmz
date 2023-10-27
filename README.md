@@ -2,21 +2,23 @@
   <img src="https://github.com/adam-pw/adam-pw/blob/main/assets/header.png" alt="Header">
 </p>
 
-### Hola 👋, Soy David Herrera 🌟.
+<h1 align="center">Hola 👋, Soy David Herrera 🌟</h1>
 
+<p align="center">
+  Estudiante apasionado por la programación.
+</p>
 
-🌱 Estoy en disposicion de aprender nuevos lemguajes de programacion.
+<p align="center">
+  <a href="mailto:david.gmzherrera28@gmail.com">📫 Contacto</a>
+</p>
 
-📫 david.gmzherrera28@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/adam-pithewan/">![LinkedIn](https://img.shields.io/badge/LinkedIn-adampithewan-blue)</a>
+  <a href="https://www.instagram.com/._.adam._">![Instagram](https://img.shields.io/badge/Instagram-._.adam._-ff69b4)</a>
+  <a href="https://github.com/adam-pw">![GitHub](https://img.shields.io/badge/GitHub-adampithewan-brightgreen)</a>
+</p>
 
-
-### Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-adampithewan-blue)](https://www.linkedin.com/in/adam-pithewan/)
-[![Instagram](https://img.shields.io/badge/Instagram-._.adam._-ff69b4)](https://www.instagram.com/._.adam._)
-[![GitHub](https://img.shields.io/badge/GitHub-adampithewan-brightgreen)](https://github.com/adam-pw)
-
-### Languages and Tools:
+### Lenguajes y Herramientas:
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1)
 ![PHP](https://img.shields.io/badge/PHP-777BB4)
@@ -29,19 +31,22 @@
 ![C++](https://img.shields.io/badge/C++-00599C)
 ![C#](https://img.shields.io/badge/C%23-239120)
 
-### Trophies
+### Proyectos Destacados:
+
+- [Proyecto 1: Nombre del Proyecto](enlace al proyecto)
+- [Proyecto 2: Nombre del Proyecto](enlace al proyecto)
+- [Proyecto 3: Nombre del Proyecto](enlace al proyecto)
+
+### Trofeos
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=adam-pw&theme=darkhub&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Statistical Data:
+### Estadísticas:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&theme=radical)
 
-
 Acerca de mí:
-[Soy estudiante actualmente y apasionado por la programacion]
 
-¡Gracias por visitar mi perfil!
+Soy estudiante apasionado por la programación, siempre en busca de aprender y mejorar mis habilidades. ¡Gracias por visitar mi perfil!
 
-<!-- Agrega imágenes, enlaces y personalización adicional según tus preferencias -->
 
