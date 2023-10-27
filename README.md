@@ -2,30 +2,43 @@
   <img src="https://github.com/adam-pw/adam-pw/blob/main/assets/header.png" alt="Header">
 </p>
 
-### Hola 👋, Soy David
-Soy Estudiante en desarollo de software 🌟.
+### Hi 👋, I'm Adam Pithenwala
+Student at MITS, Gwalior 🌟.
 
+![Profile Views](https://komarev.com/ghpvc/?username=adam-pw)
 
+🌱 I’m currently learning Web Development and other programming languages.
 
+📫 How to reach me: adampithewan@gmail.com
 
-### redes:
+⚡ Fun fact: Food and Music 🎵 are the reasons to live.
+
+### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adampithewan-blue)](https://www.linkedin.com/in/adam-pithewan/)
 [![Instagram](https://img.shields.io/badge/Instagram-._.adam._-ff69b4)](https://www.instagram.com/._.adam._)
 [![GitHub](https://img.shields.io/badge/GitHub-adampithewan-brightgreen)](https://github.com/adam-pw)
 
-### Languajes:-
+### Languages and Tools:
 
-![Android](https://img.shields.io/badge/Android-3DDC84)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3)
-![C++](https://img.shields.io/badge/C++-00599C)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1)
+![PHP](https://img.shields.io/badge/PHP-777BB4)
 ![Java](https://img.shields.io/badge/Java-007396)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1)
-![Node.js](https://img.shields.io/badge/Node.js-339933)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20)
+![AdonisJS](https://img.shields.io/badge/AdonisJS-220052)
+![Android](https://img.shields.io/badge/Android-3DDC84)
+![C++](https://img.shields.io/badge/C++-00599C)
+![C#](https://img.shields.io/badge/C%23-239120)
+
+### Trophies
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=adam-pw&theme=darkhub&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Statistical Data:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&theme=radical)
 
 
 Acerca de mí:
