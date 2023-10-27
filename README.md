@@ -1,16 +1,23 @@
-### Hi there 👋
+### ¡Hola a todos! 👋
 
-<!--
-**dabidgmz/dabidgmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy David Gómez, un apasionado por la tecnología y el desarrollo de software.
 
-Here are some ideas to get you started:
+- 🔭 Actualmente estoy trabajando en [tu proyecto actual o interés].
+- 🌱 Estoy aprendiendo [lo que estás aprendiendo actualmente].
+- 👯 Estoy buscando colaborar en proyectos relacionados con [tus intereses].
+- 💬 Puedes preguntarme sobre [temas en los que eres experto o interesado].
+- 📫 Puedes contactarme a través de [tu correo electrónico o redes sociales].
+- 😄 Pronombres: [tus pronombres, si lo deseas].
+- ⚡ Dato curioso: [un dato interesante sobre ti].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Acerca de mí:
+[Un breve resumen sobre quién eres, tu experiencia y tus intereses.]
+
+Tecnologías que me apasionan:
+- [Lista de tecnologías en las que eres experto o que te interesan.]
+
+Mis proyectos destacados:
+- [Enlace a un proyecto destacado en tu perfil de GitHub.]
+- [Otro proyecto destacado, si lo deseas.]
+
+¡Gracias por visitar mi perfil!
