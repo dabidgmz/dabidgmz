@@ -37,7 +37,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&theme=radical)
 
+### Contribuciones:
 
+![Contribuciones](https://activity-graph.herokuapp.com/graph?username=dabidgmz)
 
 Acerca de mí:
 
