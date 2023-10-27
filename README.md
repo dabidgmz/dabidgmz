@@ -4,17 +4,14 @@
 <h1 align="center">¡Hola! 👋 Soy David Herrera 🌟</h1>
 
 <p align="center">
-  Estudiante apasionado por la programación.
+  Estudiante apasionado por la programación y  apasionado , siempre en busca de aprender y mejorar mis habilidades. 
 </p>
 
 <p align="center">
   <a href="mailto:david.gmzherrera28@gmail.com">📫 Contacto</a>
 </p>
-<p aliegn="center"
-  
-Acerca de mí:
-Soy un estudiante apasionado por la programación, siempre en busca de aprender y mejorar mis habilidades. 
-  </p>  
+
+
 ### Lenguajes y Herramientas:
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1)
