@@ -2,7 +2,7 @@
   <img src="https://github.com/adam-pw/adam-pw/blob/main/assets/header.png" alt="Header">
 </p>
 
-<h1 align="center">Hola 👋, Soy David Herrera 🌟</h1>
+<h1 align="center">¡Hola! 👋 Soy David Herrera 🌟</h1>
 
 <p align="center">
   Estudiante apasionado por la programación.
@@ -10,12 +10,6 @@
 
 <p align="center">
   <a href="mailto:david.gmzherrera28@gmail.com">📫 Contacto</a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/adam-pithewan/">![LinkedIn](https://img.shields.io/badge/LinkedIn-adampithewan-blue)</a>
-  <a href="https://www.instagram.com/._.adam._">![Instagram](https://img.shields.io/badge/Instagram-._.adam._-ff69b4)</a>
-  <a href="https://github.com/adam-pw">![GitHub](https://img.shields.io/badge/GitHub-adampithewan-brightgreen)</a>
 </p>
 
 ### Lenguajes y Herramientas:
@@ -33,11 +27,10 @@
 
 ### Proyectos Destacados:
 
-- [Proyecto 1: Nombre del Proyecto](enlace al proyecto)
-- [Proyecto 2: Nombre del Proyecto](enlace al proyecto)
-- [Proyecto 3: Nombre del Proyecto](enlace al proyecto)
+- [Juego del gatito en Android](https://github.com/dabidgmz/Android_JuegoGatito_practica6)
+- [Calculadora en Android](https://github.com/dabidgmz/Andorid_calculadora_practica3)
 
-### Trofeos
+### Trofeos:
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=adam-pw&theme=darkhub&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -45,8 +38,13 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&theme=radical)
 
+### Contribuciones:
+
+![Contribuciones](https://activity-graph.herokuapp.com/graph?username=adam-pw)
+
 Acerca de mí:
 
-Soy estudiante apasionado por la programación, siempre en busca de aprender y mejorar mis habilidades. ¡Gracias por visitar mi perfil!
+Soy un estudiante apasionado por la programación, siempre en busca de aprender y mejorar mis habilidades. ¡Gracias por visitar mi perfil!
+
 
 
