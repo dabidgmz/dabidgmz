@@ -1,38 +1,35 @@
 <p align="center">
-  <img src="https://github.com/dabidgmz/dabidgmz/blob/main/assets/profile-header.png" alt="Header">
+  <img src="https://github.com/adam-pw/adam-pw/blob/main/assets/header.png" alt="Header">
 </p>
 
-### ¡Hola a todos! 👋
+### Hola 👋, Soy David
+Soy Estudiante en desarollo de software 🌟.
 
-Soy David Gómez, un apasionado por la tecnología y el desarrollo de software.
 
-- 🔭 Actualmente estoy trabajando en [tu proyecto actual o interés].
-- 🌱 Estoy aprendiendo [lo que estás aprendiendo actualmente].
-- 👯 Estoy buscando colaborar en proyectos relacionados con [tus intereses].
-- 💬 Puedes preguntarme sobre [temas en los que eres experto o interesado].
-- 📫 Puedes contactarme a través de [tu correo electrónico o redes sociales].
-- 😄 Pronombres: [tus pronombres, si lo deseas].
-- ⚡ Dato curioso: [un dato interesante sobre ti].
 
-### Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dabidgmz&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
+### redes:
 
-### Lenguajes y Herramientas
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adampithewan-blue)](https://www.linkedin.com/in/adam-pithewan/)
+[![Instagram](https://img.shields.io/badge/Instagram-._.adam._-ff69b4)](https://www.instagram.com/._.adam._)
+[![GitHub](https://img.shields.io/badge/GitHub-adampithewan-brightgreen)](https://github.com/adam-pw)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dabidgmz&layout=compact&theme=radical" alt="Top Languages">
-</p>
+### Languajes:-
 
-### Proyectos Destacados
+![Android](https://img.shields.io/badge/Android-3DDC84)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3)
+![C++](https://img.shields.io/badge/C++-00599C)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26)
+![Java](https://img.shields.io/badge/Java-007396)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1)
+![Node.js](https://img.shields.io/badge/Node.js-339933)
+### Statistical Data:
 
-- [Proyecto 1: Nombre del proyecto](enlace al proyecto)
-- [Proyecto 2: Nombre del proyecto](enlace al proyecto)
 
 Acerca de mí:
-[Un breve resumen sobre quién eres, tu experiencia y tus intereses.]
+[Soy estudiante actualmente y apasionado por la programacion]
 
 ¡Gracias por visitar mi perfil!
 
