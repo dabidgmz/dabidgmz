@@ -10,7 +10,11 @@
 <p align="center">
   <a href="mailto:david.gmzherrera28@gmail.com">📫 Contacto</a>
 </p>
-
+<p aliegn="center"
+  
+Acerca de mí:
+Soy un estudiante apasionado por la programación, siempre en busca de aprender y mejorar mis habilidades. 
+  </p>  
 ### Lenguajes y Herramientas:
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1)
@@ -38,9 +42,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dabidgmz&show_icons=true&theme=radical)
 
 
-
-Acerca de mí:
-
-Soy un estudiante apasionado por la programación, siempre en busca de aprender y mejorar mis habilidades. ¡Gracias por visitar mi perfil!
+<p align="center">
+  ¡Gracias por visitar mi perfil!
+</p>
 
 
