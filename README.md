@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_DE_TU_IMAGEN" alt="Imagen">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmsjchs.com%2Fhello-world-text-on-black-background-text-simple-background-zz-dj7ZVncN&psig=AOvVaw0l7T6wQ-3QUXHCwSCBLxbn&ust=1711473104145000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLD_sqX0j4UDFQAAAAAdAAAAABAh" alt="Imagen">
 </p>
 
 <h1 align="center">¡Hola! 👋 Soy David Herrera 🌟</h1>
