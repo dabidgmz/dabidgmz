@@ -1,10 +1,11 @@
 <p align="center">
+  <img src="URL_DE_TU_IMAGEN" alt="Imagen">
 </p>
 
 <h1 align="center">¡Hola! 👋 Soy David Herrera 🌟</h1>
 
 <p align="center">
-  Estudiante apasionado por la programación y  apasionado , siempre en busca de aprender y mejorar mis habilidades. 
+  Estudiante apasionado por la programación, siempre en busca de aprender y mejorar mis habilidades.
 </p>
 
 <p align="center">
@@ -42,5 +43,3 @@
 <p align="center">
   ¡Gracias por visitar mi perfil!
 </p>
-
-
