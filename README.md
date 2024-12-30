@@ -34,6 +34,17 @@
   <img src="https://img.shields.io/badge/Android-3DDC84" alt="Android">
   <img src="https://img.shields.io/badge/Swift-FA7343" alt="Swift">
   <img src="https://img.shields.io/badge/Xcode-1575F9" alt="Xcode">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/Expo-000020" alt="Expo">
+</p>
+
+#### DevOps y Servicios Cloud:
+<p align="center">
+  <img src="https://img.shields.io/badge/Rocky_Linux-10B981" alt="Rocky Linux">
+  <img src="https://img.shields.io/badge/Debian-A81D33" alt="Debian">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/Digital_Ocean-0080FF" alt="Digital Ocean">
+  <img src="https://img.shields.io/badge/AWS-232F3E" alt="Amazon Web Services">
 </p>
 
 ### Proyectos Destacados:
