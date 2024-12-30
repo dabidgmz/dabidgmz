@@ -8,6 +8,9 @@
   <a href="mailto:david.gmzherrera28@gmail.com">📫 Contacto</a>
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/96142117/215200924-8c90703e-bad3-49d1-8a99-2cfb5c982216.gif" alt="Banner animado" width="100%" height="200">
+</p>
 
 ### Lenguajes y Herramientas:
 #### Front-end:
