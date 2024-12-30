@@ -42,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="Android Studio">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" height="40" alt="Xcode">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40" alt="Swift"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Expo_Logo.png" width="40" height="40" alt="Expo Go">
+    <img src="https://cdn.jsdelivr.net/npm/expo@43.0.0/logo.svg" width="40" height="40" alt="Expo Go">
 </p>
 
 
