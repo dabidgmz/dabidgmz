@@ -47,10 +47,6 @@
   <img src="https://img.shields.io/badge/AWS-232F3E" alt="Amazon Web Services">
 </p>
 
-### Proyectos Destacados:
-
-- [Juego del gatito en Android](https://github.com/dabidgmz/Android_JuegoGatito_practica6)
-- [Calculadora en Android](https://github.com/dabidgmz/Andorid_calculadora_practica3)
 
 ### Estadísticas de GitHub:
 
