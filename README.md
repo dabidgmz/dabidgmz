@@ -1,23 +1,22 @@
-<h1 align="center">¡Hola! 👋 Soy David Herrera 🌟</h1>
+# <h1 align="center">Hello! 👋 I'm David Herrera 🌟</h1>
 
 <p align="center">
-  🎓 Estudiante apasionado por la programación y el desarrollo de software.<br>
-  🚀 Siempre en busca de aprender, crear y mejorar mis habilidades.
+  🎓 A passionate student of software development — always learning, building, and improving.
 </p>
 
 <p align="center">
-  <a href="mailto:david.gmzherrera28@gmail.com">📫 Contáctame</a>
+  <a href="mailto:david.gmzherrera28@gmail.com">📫 Contact me</a>
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/96142117/215200924-8c90703e-bad3-49d1-8a99-2cfb5c982216.gif" alt="Banner animado" width="100%" height="200">
+  <img src="https://user-images.githubusercontent.com/96142117/215200924-8c90703e-bad3-49d1-8a99-2cfb5c982216.gif" alt="Animated banner" width="100%" height="200">
 </p>
 
 ---
 
-## 🧠 Lenguajes y Herramientas
+# 🧠 Languages & Tools
 
-### 🎨 Front-End
+## 🎨 Front-end
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
@@ -25,12 +24,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="40" height="40" alt="Ionic"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" width="40" height="40" alt="Tauri"/>
 </p>
 
-### ⚙️ Back-End
+## ⚙️ Back-end
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="40" height="40" alt="AdonisJS"/>
@@ -44,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
 </p>
 
-### 📱 Desarrollo Móvil y Juegos
+## 📱 Mobile & Game Development
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="Android Studio"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin"/>
@@ -54,7 +54,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" height="40" alt="Xcode"/>
 </p>
 
-### 🗃️ Bases de Datos
+## 🗃️ Databases
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
@@ -63,7 +63,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server"/>
 </p>
 
-### ☁️ DevOps y Cloud
+## ☁️ DevOps & Cloud
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40" height="40" alt="Debian"/>
@@ -75,27 +75,27 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dabidgmz&show_icons=true&theme=radical" alt="Estadísticas de GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dabidgmz&show_icons=true&theme=radical" alt="GitHub stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dabidgmz&layout=compact&theme=radical" alt="Lenguajes más usados"/>
-</p>
-
----
-
-## 🔥 Racha de Contribuciones
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dabidgmz&theme=radical" alt="Contribuciones"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dabidgmz&layout=compact&theme=radical" alt="Top languages"/>
 </p>
 
 ---
 
+# 🔥 Contribution Streak
+
 <p align="center">
-  💡 “El aprendizaje constante es el combustible del crecimiento personal.” <br><br>
-  ⭐ ¡Gracias por visitar mi perfil! ⭐
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dabidgmz&theme=radical" alt="Contribution streak"/>
+</p>
+
+---
+
+<p align="center">
+  💡 “Continuous learning is the fuel for personal growth.” <br><br>
+  ⭐ Thanks for visiting my profile! ⭐
 </p>
