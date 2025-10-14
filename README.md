@@ -78,10 +78,16 @@
 
 ### 🔌 APIs & Tools
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openpay/openpay-original.svg" width="40" height="40" alt="OpenPay"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stripe/stripe-original.svg" width="40" height="40" alt="Stripe"/>
+  <!-- Usamos Node.js como ícono representativo de OpenPay/Stripe -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="OpenPay/Stripe"/>
+  
+  <!-- Facebook para Meta API -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40" alt="Meta API"/>
+  
+  <!-- Postman -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/>
+  
+  <!-- Insomnia -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" width="40" height="40" alt="Insomnia"/>
 </p>
 
