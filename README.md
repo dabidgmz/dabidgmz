@@ -75,7 +75,19 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="100" height="40" alt="AWS"/>
 </p>
 
+
+### 🔌 APIs & Tools
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Openpay_Logo.png" width="80" height="40" alt="OpenPay"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Stripe_Logo%2C_revised_2016.svg" width="80" height="40" alt="Stripe"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Meta_Platforms_Inc._logo.svg" width="80" height="40" alt="Meta API"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Postman_(software)_logo.svg" width="40" height="40" alt="Postman"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Insomnia_Logo.svg" width="40" height="40" alt="Insomnia"/>
+</p>
+
+
 ---
+
 
 ## 📊 GitHub Stats
 
