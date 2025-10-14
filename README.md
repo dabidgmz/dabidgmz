@@ -1,7 +1,9 @@
-# <h1 align="center">Hello! 👋 I'm David Herrera 🌟</h1>
+<h1 align="center">Hello! 👋 I'm David Herrera 🌟</h1>
 
 <p align="center">
-  🎓 A passionate student of software development — always learning, building, and improving.
+  🎓 Passionate software development student — always learning, building, and improving.<br>
+  🌐 <a href="https://david-portafolio-t1av.vercel.app/">My Portfolio</a> |
+  🤝 <a href="https://www.linkedin.com/in/david-g%C3%B3mez-herrera-2405b1232/">LinkedIn</a>
 </p>
 
 <p align="center">
@@ -14,9 +16,9 @@
 
 ---
 
-# 🧠 Languages & Tools
+## 🧠 Languages & Tools
 
-## 🎨 Front-end
+### 🎨 Front-end
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
@@ -30,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" width="40" height="40" alt="Tauri"/>
 </p>
 
-## ⚙️ Back-end
+### ⚙️ Back-end
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="40" height="40" alt="AdonisJS"/>
@@ -44,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
 </p>
 
-## 📱 Mobile & Game Development
+### 📱 Mobile & Game Development
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="Android Studio"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin"/>
@@ -54,7 +56,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" height="40" alt="Xcode"/>
 </p>
 
-## 🗃️ Databases
+### 🗃️ Databases
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
@@ -63,7 +65,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server"/>
 </p>
 
-## ☁️ DevOps & Cloud
+### ☁️ DevOps & Cloud
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40" height="40" alt="Debian"/>
@@ -75,7 +77,7 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dabidgmz&show_icons=true&theme=radical" alt="GitHub stats"/>
@@ -87,7 +89,7 @@
 
 ---
 
-# 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dabidgmz&theme=radical" alt="Contribution streak"/>
