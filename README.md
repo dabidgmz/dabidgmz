@@ -182,7 +182,7 @@ const david = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dabidgmz&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=dabidgmz&theme=radical&no-frame=true&no-bg=true&margin-w=4&colum+n=7" alt="GitHub Trophies"/> 
 
 </div>
 
