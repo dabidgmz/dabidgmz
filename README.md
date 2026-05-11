@@ -64,19 +64,23 @@ const david = {
 ## 🧰 Tech Arsenal
 
 <h3 align="center">🎨 Frontend</h3>
-<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,angular,ionic,tauri,bootstrap,tailwind,sass&perline=13" alt="Frontend stack"/></div>
+<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,angular,tauri,bootstrap,tailwind,sass&perline=12" alt="Frontend stack"/></div>
+<p align="center"><img src="https://img.shields.io/badge/-Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic"/></p>
 
 <h3 align="center">⚙️ Backend</h3>
 <div align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,flask,fastapi,dotnet,cs,php,laravel,java,spring,cpp&perline=14" alt="Backend stack"/></div>
+<p align="center"><img src="https://img.shields.io/badge/-AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white" alt="AdonisJS"/></p>
 
 <h3 align="center">📱 Mobile & Cross-platform</h3>
 <div align="center"><img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,kotlin,swift,xcode,unity&perline=7" alt="Mobile stack"/></div>
 
 <h3 align="center">🗄️ Databases</h3>
-<div align="center"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle,sqlite,redis,firebase&perline=7" alt="Databases"/></div>
+<div align="center"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,firebase&perline=6" alt="Databases"/></div>
+<p align="center"><img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/> <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/></p>
 
 <h3 align="center">☁️ DevOps & Cloud</h3>
 <div align="center"><img src="https://skillicons.dev/icons?i=linux,docker,aws,gcp,vercel,ubuntu,debian,nginx,git,github,bash&perline=11" alt="DevOps"/></div>
+<p align="center"><img src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean"/></p>
 
 <h3 align="center">🤖 AI / ML</h3>
 <div align="center"><img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,anaconda,opencv&perline=6" alt="AI/ML"/></div>
