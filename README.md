@@ -1,198 +1,345 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=David%20Herrera&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Integrations%20%7C%20ERP%20Systems&descAlignY=51&descAlign=50"/>
+<!-- ═══════════════════════ HEADER ═══════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,50:8A63D2,100:B197FC&height=200&section=header&text=David%20Herrera&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20AI%20Engineer%20%26%20Trainer%20%E2%80%A2%20ERP%20Architect&descAlignY=58&descSize=16"/>
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+LLM+Integrations+%F0%9F%A4%96;ERP+%26+Fiscal+Systems+%F0%9F%A7%BE;Always+Learning+%26+Building+%F0%9F%8C%B1)](https://git.io/typing-svg)
+<!-- ═══════════════════════ TYPING ═══════════════════════ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=8A63D2&center=true&vCenter=true&width=680&lines=Crafting+enterprise+ERP+systems;Training+%26+embedding+AI+into+real+workflows;Bridging+fiscal+APIs+%26+compliance;Turning+coffee+into+scalable+code)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://david-portafolio-t1av.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-g%C3%B3mez-herrera-2405b1232/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david.gmzherrera28@gmail.com)
+<!-- ═══════════════════════ SOCIALS ═══════════════════════ -->
+<a href="https://david-portafolio-t1av.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000"/>
+</a>
+<a href="https://www.linkedin.com/in/david-g%C3%B3mez-herrera-2405b1232/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+</a>
+<a href="mailto:david.gmzherrera28@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+</a>
+<a href="https://komarev.com/ghpvc/?username=dabidgmz">
+  <img src="https://komarev.com/ghpvc/?username=dabidgmz&color=8A63D2&style=for-the-badge&label=VISITORS"/>
+</a>
+
+<br/><br/>
+
+<!-- ═══════════════════════ NAV ═══════════════════════ -->
+<kbd><a href="#-about">About</a></kbd> •
+<kbd><a href="#-currently">Currently</a></kbd> •
+<kbd><a href="#-tech-arsenal">Tech</a></kbd> •
+<kbd><a href="#-ai-trainer--engineer">AI Trainer</a></kbd> •
+<kbd><a href="#-ai--fiscal-integrations">Fiscal</a></kbd> •
+<kbd><a href="#-featured-work">Projects</a></kbd> •
+<kbd><a href="#-the-numbers">Stats</a></kbd>
+
+</div>
+
+<br/>
+
+## 🧭 About
+
+<img align="right" alt="coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+```ts
+const david = {
+  pronouns:   "he/him",
+  role:       "Full Stack Developer & AI Trainer",
+  location:   "México 🇲🇽",
+  focus:      ["ERP Systems", "AI Training", "Fiscal APIs", "Cross-platform Apps"],
+  building:   "Enterprise dashboards · Astro + AI copilots",
+  training:   ["LLM fine-tuning", "RLHF datasets", "Prompt evaluation"],
+  learning:   ["Agent orchestration", "SAT / CFDI 4.0", "Edge runtimes"],
+  philosophy: "Ship code that earns trust ☕ → 🚀",
+};
+```
+
+<br clear="right"/>
+
+---
+
+## ⚡ Currently
+
+<table>
+  <tr>
+    <td>🔭</td>
+    <td><b>Working on</b></td>
+    <td>ABASA ERP Dashboard — Astro + AI-assisted HR & asset management</td>
+  </tr>
+  <tr>
+    <td>🧠</td>
+    <td><b>Training</b></td>
+    <td>LLM fine-tunes for domain-specific ERP tasks · prompt evaluation pipelines</td>
+  </tr>
+  <tr>
+    <td>🌱</td>
+    <td><b>Learning</b></td>
+    <td>Agent orchestration, SAT / CFDI 4.0 deep compliance, edge runtimes</td>
+  </tr>
+  <tr>
+    <td>👯</td>
+    <td><b>Open to</b></td>
+    <td>Collaborations on fiscal-tech, AI training, and cross-platform ERPs</td>
+  </tr>
+  <tr>
+    <td>💬</td>
+    <td><b>Ask me about</b></td>
+    <td>CFDI timbrado, RAG pipelines, model evaluation, Astro islands, Flutter/Dart</td>
+  </tr>
+  <tr>
+    <td>⚡</td>
+    <td><b>Fun fact</b></td>
+    <td>I debug better after the second espresso ☕</td>
+  </tr>
+</table>
+
+---
+
+## 🧰 Tech Arsenal
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+#### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+#### 📱 Mobile & Cross-platform
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+#### ⚙️ Backend
+![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Adonis](https://img.shields.io/badge/-AdonisJS-5A45FF?style=flat-square&logo=adonisjs&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+#### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Mongo](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![SQLServer](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+#### ☁️ DevOps & Cloud
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![DO](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 AI Trainer & Engineer
+
+> Beyond integrating LLMs, I **train, fine-tune, and evaluate** them — building the datasets, pipelines, and guardrails that make models production-ready.
+
+<div align="center">
+
+<table>
+<tr>
+<th width="33%">📚 Data & Datasets</th>
+<th width="33%">🎯 Training & Fine-tuning</th>
+<th width="33%">🔬 Evaluation</th>
+</tr>
+<tr>
+<td align="center" valign="top">
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Label%20Studio-FF6B35?style=for-the-badge&logoColor=white"/>
+<br/><sub>Curation · Annotation · Cleaning</sub>
+</td>
+<td align="center" valign="top">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/LoRA%20%2F%20PEFT-6E40C9?style=for-the-badge&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/RLHF-1C3C3C?style=for-the-badge&logoColor=white"/>
+<br/><sub>SFT · DPO · Adapter tuning</sub>
+</td>
+<td align="center" valign="top">
+<img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Evals-8A63D2?style=for-the-badge&logoColor=white"/>
+<br/><sub>Metrics · Tracing · A/B</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<details>
+<summary><b>🧪 Training capabilities →</b></summary>
+
+<br/>
+
+| | What I do |
+|:-:|:--|
+| 📝 | **Dataset curation** — domain-specific corpora for ERP, fiscal & legal contexts |
+| 🎯 | **Supervised fine-tuning (SFT)** with LoRA / QLoRA adapters on open-weight models |
+| 🏆 | **Preference tuning** (DPO / RLHF-style) for tone, format, and safety alignment |
+| 📊 | **Eval harnesses** — golden sets, LLM-as-judge, and regression suites |
+| 🛡️ | **Guardrails & red-teaming** — adversarial prompts, jailbreak resistance |
+| 🚀 | **Deployment** — quantized inference, vLLM, Ollama, on-prem & edge |
+
+</details>
+
+---
+
+## 🧾 AI & Fiscal Integrations
+
+> Production-grade AI copilots and Mexican tax compliance (SAT / CFDI 4.0) wired into real ERP platforms.
+
+<div align="center">
+
+<table>
+<tr>
+<th width="33%">🧠 AI & LLM</th>
+<th width="33%">🧾 Fiscal MX</th>
+<th width="33%">💳 Payments</th>
+</tr>
+<tr>
+<td align="center" valign="top">
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<br/><sub>Agents · RAG · Embeddings</sub>
+</td>
+<td align="center" valign="top">
+<img src="https://img.shields.io/badge/SAT-B22222?style=for-the-badge&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/CFDI%204.0-006400?style=for-the-badge&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/PAC-2F4F4F?style=for-the-badge&logoColor=white"/>
+<br/><sub>Finkok · SW · Edicom</sub>
+</td>
+<td align="center" valign="top">
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/OpenPay-0F4C81?style=for-the-badge&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Webhooks-FF6B35?style=for-the-badge&logoColor=white"/>
+<br/><sub>Reconciliation pipelines</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<details>
+<summary><b>📦 What I build with these →</b></summary>
+
+<br/>
+
+| | Capability |
+|:-:|:--|
+| 🧾 | **CFDI 4.0** generation & timbrado via PAC integrations |
+| 🤖 | **AI copilots** embedded in ERP dashboards (HR, assets, inventory) |
+| 📊 | **RAG-powered** document search over fiscal & legal records |
+| 🔗 | **Real-time SAT** validation — RFC lookup, blacklists, CSD status |
+| 💳 | **Payment reconciliation** pipelines with Stripe / OpenPay webhooks |
+
+</details>
+
+---
+
+## 🚀 Featured Work
+
+<div align="center">
+
+<a href="https://github.com/dabidgmz/ABASA-ERP-DASHBOARD">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dabidgmz&repo=ABASA-ERP-DASHBOARD&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=B197FC&icon_color=8A63D2&text_color=ffffff"/>
+</a>
+
+</div>
+
+> **ABASA ERP Dashboard** — Enterprise resource planning built with **Astro + TypeScript**. HR asset management, AI-assisted workflows, and Mexican fiscal compliance (SAT / CFDI 4.0).
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=false"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 📊 The Numbers
 
-```ts
-const david = {
-  role: "Full Stack Developer",
-  focus: ["ERP Systems", "AI Integrations", "Fiscal APIs"],
-  currentlyBuilding: "Enterprise dashboards with Astro + AI",
-  learning: ["LLM Agents", "SAT/CFDI Compliance", "Edge Computing"],
-  funFact: "I turn coffee ☕ into scalable software 🚀"
-};
-```
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dabidgmz&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=B197FC&icon_color=8A63D2&text_color=ffffff&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dabidgmz&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=B197FC&text_color=ffffff&langs_count=8"/>
 
-## 🛠️ Tech Stack
+<br/>
 
-### 🎨 Front-end
+<img src="https://streak-stats.demolab.com?user=dabidgmz&theme=midnight-purple&hide_border=true&background=0D1117&stroke=8A63D2&ring=B197FC&fire=B197FC&currStreakLabel=B197FC"/>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" title="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="40" height="40" title="Astro"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" title="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="40" height="40" title="Ionic"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" title="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" width="40" height="40" title="Tauri"/>
-</p>
+<br/><br/>
 
-### ⚙️ Back-end
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dabidgmz&theme=react-dark&hide_border=true&bg_color=0D1117&color=B197FC&line=8A63D2&point=ffffff&area=true&area_color=8A63D2"/>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="40" height="40" title="AdonisJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" title="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" title="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" title=".NET"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" title="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" title="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/>
-</p>
+<br/><br/>
 
-### 📱 Mobile & Game Dev
+<img src="https://github-trophies.vercel.app/?username=dabidgmz&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" title="Android"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" title="Kotlin"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40" title="Swift"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" title="Unity"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" height="40" title="Xcode"/>
-</p>
-
-### 🗃️ Databases
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" title="Oracle"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" title="SQL Server"/>
-</p>
-
-### ☁️ DevOps & Cloud
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="40" height="40" title="DigitalOcean"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="70" height="40" title="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40" height="40" title="Debian"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" title="Ubuntu"/>
-</p>
+</div>
 
 ---
 
-## 🤖 AI & Fiscal Integrations
+## 🤝 Let's Build Something
 
-> Specialized in connecting intelligent systems and regulatory compliance APIs into production-grade ERP platforms.
+<div align="center">
 
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Claude%20AI-6E40C9?style=for-the-badge&logo=anthropic&logoColor=white"/><br/>
-      <sub>LLM Agents & Automation</sub>
+    <td align="center">
+      <a href="mailto:david.gmzherrera28@gmail.com">
+        <img src="https://img.shields.io/badge/Drop%20me%20an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+      </a>
     </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/><br/>
-      <sub>GPT-4 / Embeddings</sub>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/david-g%C3%B3mez-herrera-2405b1232/">
+        <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
     </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/><br/>
-      <sub>RAG Pipelines</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/SAT%20%2F%20CFDI-B22222?style=for-the-badge&logoColor=white"/><br/>
-      <sub>Facturación Electrónica MX</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Fiscal%20API-006400?style=for-the-badge&logoColor=white"/><br/>
-      <sub>CFDI 4.0 · Timbrado · PAC</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/OpenPay%20%2F%20Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/><br/>
-      <sub>Pagos & Conciliación</sub>
+    <td align="center">
+      <a href="https://david-portafolio-t1av.vercel.app/">
+        <img src="https://img.shields.io/badge/Visit%20my%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </a>
     </td>
   </tr>
 </table>
 
-### What I Build With These
+<br/>
 
-```
-🧾 CFDI 4.0 generation & timbrado via PAC integrations (Finkok, SW Sapien, Edicom)
-🤖 AI copilots embedded in ERP dashboards (asset management, HR, inventory)
-📊 RAG-powered document search over fiscal & legal records
-🔗 Real-time SAT validation (RFC lookup, blacklists, CSD status)
-💳 Payment reconciliation pipelines with OpenPay / Stripe webhooks
-```
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![ABASA ERP](https://github-readme-stats.vercel.app/api/pin/?username=dabidgmz&repo=ABASA-ERP-DASHBOARD&theme=radical&hide_border=true)](https://github.com/dabidgmz/ABASA-ERP-DASHBOARD)
-
-</div>
-
-> **ABASA ERP Dashboard** — Enterprise resource planning system built with **Astro + TypeScript**, featuring HR asset management, AI-assisted workflows, and fiscal API integrations for Mexican tax compliance (SAT/CFDI 4.0).
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dabidgmz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="David's GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dabidgmz&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=dabidgmz&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dabidgmz&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=dabidgmz&theme=radical&no-frame=true&no-bg=true&margin-w=4&colum+n=7" alt="GitHub Trophies"/> 
-
-</div>
-
----
-
-## 📈 Profile Visitors
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=dabidgmz&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+<i>✨ Open to remote opportunities · freelance · AI training gigs · collaborations ✨</i>
 
 </div>
 
@@ -200,8 +347,12 @@ const david = {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B197FC,50:8A63D2,100:6E40C9&height=120&section=footer&animation=fadeIn&reversal=true"/>
 
-*"Build systems that outlast the sprint. Ship code that earns trust."*
+<i>"Build systems that outlast the sprint. Ship code that earns trust."</i>
+
+<br/>
+
+<sub>⭐ From <a href="https://github.com/dabidgmz">@dabidgmz</a> · Made with violet vibes</sub>
 
 </div>
