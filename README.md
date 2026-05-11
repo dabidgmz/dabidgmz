@@ -1,23 +1,32 @@
 <div align="center">
 
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,50:8A63D2,100:B197FC&height=200&section=header&text=David%20Herrera&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20AI%20Engineer%20%26%20Trainer%20%E2%80%A2%20ERP%20Architect&descAlignY=58&descSize=16"/>
+<a href="https://github.com/dabidgmz">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=David%20Herrera&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="banner"/>
+</a>
+
+# `Full Stack · AI Engineer & Trainer · ERP Architect`
 
 <!-- ═══════════════════════ TYPING ═══════════════════════ -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=8A63D2&center=true&vCenter=true&width=680&lines=Crafting+enterprise+ERP+systems;Training+%26+embedding+AI+into+real+workflows;Bridging+fiscal+APIs+%26+compliance;Turning+coffee+into+scalable+code"/></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=8A63D2&center=true&vCenter=true&width=700&lines=Crafting+enterprise+ERP+systems+%F0%9F%9A%80;Training+%26+embedding+AI+into+real+workflows+%F0%9F%A4%96;Bridging+fiscal+APIs+%26+compliance+%F0%9F%A7%BE;Turning+coffee+into+scalable+code+%E2%98%95" alt="typing"/>
+</a>
 
-<br/>
+<br/><br/>
 
 <!-- ═══════════════════════ SOCIALS ═══════════════════════ -->
-<a href="https://david-portafolio-t1av.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/david-g%C3%B3mez-herrera-2405b1232/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:david.gmzherrera28@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=dabidgmz&color=8A63D2&style=for-the-badge&label=VISITORS"/>
+<a href="https://david-portafolio-t1av.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/david-g%C3%B3mez-herrera-2405b1232/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+&nbsp;
+<a href="mailto:david.gmzherrera28@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=dabidgmz&color=8A63D2&style=for-the-badge&label=VISITORS" alt="visitors"/>
 
 <br/><br/>
 
 <!-- ═══════════════════════ NAV ═══════════════════════ -->
-<kbd><a href="#-about">About</a></kbd> • <kbd><a href="#-currently">Currently</a></kbd> • <kbd><a href="#-tech-arsenal">Tech</a></kbd> • <kbd><a href="#-ai-trainer--engineer">AI Trainer</a></kbd> • <kbd><a href="#-ai--fiscal-integrations">Fiscal</a></kbd> • <kbd><a href="#-featured-work">Projects</a></kbd> • <kbd><a href="#-the-numbers">Stats</a></kbd>
+<kbd><a href="#-about">About</a></kbd> · <kbd><a href="#-currently">Currently</a></kbd> · <kbd><a href="#-tech-arsenal">Tech</a></kbd> · <kbd><a href="#-ai-trainer--engineer">AI Trainer</a></kbd> · <kbd><a href="#-ai--fiscal-integrations">Fiscal</a></kbd> · <kbd><a href="#-featured-work">Projects</a></kbd> · <kbd><a href="#-the-numbers">Stats</a></kbd>
 
 </div>
 
@@ -32,7 +41,7 @@ const david = {
   pronouns:   "he/him",
   role:       "Full Stack Developer & AI Trainer",
   location:   "México 🇲🇽",
-  focus:      ["ERP Systems", "AI Training", "Fiscal APIs", "Cross-platform Apps"],
+  focus:      ["ERP Systems", "AI Training", "Fiscal APIs", "Cross-platform"],
   building:   "Enterprise dashboards · Astro + AI copilots",
   training:   ["LLM fine-tuning", "RLHF datasets", "Prompt evaluation"],
   learning:   ["Agent orchestration", "SAT / CFDI 4.0", "Edge runtimes"],
@@ -59,35 +68,67 @@ const david = {
 
 ## 🧰 Tech Arsenal
 
+<div align="center">
+
 ### 🎨 Frontend
 
-<p align="left">
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white"/> <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white"/> <img src="https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black"/> <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" title="HTML5"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" title="CSS3"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" title="TypeScript"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" title="React"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" title="Next.js"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="48" height="48" alt="Astro" title="Astro"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" height="48" alt="Angular" title="Angular"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="48" height="48" alt="Ionic" title="Ionic"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" width="48" height="48" alt="Tauri" title="Tauri"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" title="Bootstrap"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind" title="Tailwind CSS"/>
 
 ### ⚙️ Backend
 
-<p align="left">
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/-AdonisJS-5A45FF?style=flat-square&logo=adonisjs&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" title="Node.js"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="48" height="48" alt="AdonisJS" title="AdonisJS"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django" title="Django"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" title="Flask"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="48" height="48" alt=".NET" title=".NET"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" title="PHP"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" title="Java"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" title="C#"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" title="C++"/>
 
 ### 📱 Mobile & Cross-platform
 
-<p align="left">
-<img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/> <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" title="Dart"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" title="Flutter"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" height="48" alt="Android" title="Android"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="Kotlin" title="Kotlin"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="48" height="48" alt="Swift" title="Swift"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="48" height="48" alt="Xcode" title="Xcode"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="48" height="48" alt="Unity" title="Unity"/>
 
 ### 🗄️ Databases
 
-<p align="left">
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" title="MySQL"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" title="MongoDB"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" title="Oracle"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" title="SQL Server"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" title="Redis"/>
 
 ### ☁️ DevOps & Cloud
 
-<p align="left">
-<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white"/> <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" title="Linux"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" title="Docker"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS" title="AWS"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="48" height="48" alt="DigitalOcean" title="DigitalOcean"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="Ubuntu" title="Ubuntu"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="48" height="48" alt="Debian" title="Debian"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" title="Nginx"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" title="Git"/>
+
+</div>
 
 ---
 
@@ -105,22 +146,25 @@ const david = {
   </tr>
   <tr>
     <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/><br/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Label%20Studio-FF6B35?style=for-the-badge&logoColor=white"/><br/>
-      <sub>Curation · Annotation · Cleaning</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" height="42" title="Pandas"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" height="42" title="NumPy"/>
+      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="42" height="42" title="HuggingFace"/>
+      <br/><br/>
+      <sub><b>Curation</b> · <b>Annotation</b> · <b>Cleaning</b></sub>
     </td>
     <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/LoRA%20%2F%20PEFT-6E40C9?style=for-the-badge&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/RLHF-1C3C3C?style=for-the-badge&logoColor=white"/><br/>
-      <sub>SFT · DPO · Adapter tuning</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42" height="42" title="PyTorch"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42" height="42" title="TensorFlow"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="42" height="42" title="scikit-learn"/>
+      <br/><br/>
+      <sub><b>SFT</b> · <b>LoRA / QLoRA</b> · <b>DPO / RLHF</b></sub>
     </td>
     <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black"/><br/>
-      <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Evals-8A63D2?style=for-the-badge&logoColor=white"/><br/>
-      <sub>Metrics · Tracing · A/B</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="42" height="42" title="Jupyter"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="42" height="42" title="Matplotlib"/>
+      <img src="https://wandb.ai/logo.svg" width="42" height="42" title="Weights & Biases"/>
+      <br/><br/>
+      <sub><b>Metrics</b> · <b>Tracing</b> · <b>A/B Tests</b></sub>
     </td>
   </tr>
 </table>
@@ -159,22 +203,25 @@ const david = {
   </tr>
   <tr>
     <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/><br/>
-      <sub>Agents · RAG · Embeddings</sub>
+      <img src="https://cdn.simpleicons.org/anthropic/D97757" width="40" height="40" title="Claude"/>
+      <img src="https://cdn.simpleicons.org/openai/10A37F" width="40" height="40" title="OpenAI"/>
+      <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" title="LangChain"/>
+      <br/><br/>
+      <sub><b>Claude</b> · <b>OpenAI</b> · <b>LangChain</b><br/>Agents · RAG · Embeddings</sub>
     </td>
     <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/SAT-B22222?style=for-the-badge&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/CFDI%204.0-006400?style=for-the-badge&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/PAC-2F4F4F?style=for-the-badge&logoColor=white"/><br/>
-      <sub>Finkok · SW · Edicom</sub>
+      <img src="https://cdn.simpleicons.org/files/B22222" width="40" height="40" title="SAT"/>
+      <img src="https://cdn.simpleicons.org/receipt/006400" width="40" height="40" title="CFDI 4.0"/>
+      <img src="https://cdn.simpleicons.org/checkmarx/2F4F4F" width="40" height="40" title="PAC"/>
+      <br/><br/>
+      <sub><b>SAT</b> · <b>CFDI 4.0</b> · <b>PAC</b><br/>Finkok · SW · Edicom</sub>
     </td>
     <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/OpenPay-0F4C81?style=for-the-badge&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Webhooks-FF6B35?style=for-the-badge&logoColor=white"/><br/>
-      <sub>Reconciliation pipelines</sub>
+      <img src="https://cdn.simpleicons.org/stripe/635BFF" width="40" height="40" title="Stripe"/>
+      <img src="https://cdn.simpleicons.org/mercadopago/00B1EA" width="40" height="40" title="OpenPay/MercadoPago"/>
+      <img src="https://cdn.simpleicons.org/webhook/FF6B35" width="40" height="40" title="Webhooks"/>
+      <br/><br/>
+      <sub><b>Stripe</b> · <b>OpenPay</b> · <b>Webhooks</b><br/>Reconciliation pipelines</sub>
     </td>
   </tr>
 </table>
@@ -202,7 +249,9 @@ const david = {
 
 <div align="center">
 
-<a href="https://github.com/dabidgmz/ABASA-ERP-DASHBOARD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dabidgmz&repo=ABASA-ERP-DASHBOARD&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=B197FC&icon_color=8A63D2&text_color=ffffff"/></a>
+<a href="https://github.com/dabidgmz/ABASA-ERP-DASHBOARD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dabidgmz&repo=ABASA-ERP-DASHBOARD&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=B197FC&icon_color=8A63D2&text_color=ffffff" alt="ABASA ERP"/></a>
+&nbsp;
+<a href="https://github.com/dabidgmz/ABASA-DIGITAL-CATALOG"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dabidgmz&repo=ABASA-DIGITAL-CATALOG&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=B197FC&icon_color=8A63D2&text_color=ffffff" alt="ABASA Catalog"/></a>
 
 </div>
 
@@ -214,7 +263,7 @@ const david = {
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=false"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=false" alt="quote"/>
 
 </div>
 
@@ -224,19 +273,21 @@ const david = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dabidgmz&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=B197FC&icon_color=8A63D2&text_color=ffffff&include_all_commits=true&count_private=true&rank_icon=github"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dabidgmz&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=B197FC&text_color=ffffff&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dabidgmz&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=B197FC&icon_color=8A63D2&text_color=ffffff&include_all_commits=true&count_private=true&rank_icon=github" alt="stats"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dabidgmz&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=B197FC&text_color=ffffff&langs_count=8" alt="languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=dabidgmz&theme=midnight-purple&hide_border=true&background=0D1117&stroke=8A63D2&ring=B197FC&fire=B197FC&currStreakLabel=B197FC"/>
+<img src="https://streak-stats.demolab.com?user=dabidgmz&theme=midnight-purple&hide_border=true&background=0D1117&stroke=8A63D2&ring=B197FC&fire=B197FC&currStreakLabel=B197FC" alt="streak"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dabidgmz&theme=react-dark&hide_border=true&bg_color=0D1117&color=B197FC&line=8A63D2&point=ffffff&area=true&area_color=8A63D2"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dabidgmz&theme=react-dark&hide_border=true&bg_color=0D1117&color=B197FC&line=8A63D2&point=ffffff&area=true&area_color=8A63D2" alt="activity"/>
 
 <br/><br/>
 
-<img src="https://github-trophies.vercel.app/?username=dabidgmz&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
+<img src="https://github-trophies.vercel.app/?username=dabidgmz&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="trophies"/>
 
 </div>
 
@@ -246,7 +297,11 @@ const david = {
 
 <div align="center">
 
-<a href="mailto:david.gmzherrera28@gmail.com"><img src="https://img.shields.io/badge/Drop%20me%20an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/david-g%C3%B3mez-herrera-2405b1232/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://david-portafolio-t1av.vercel.app/"><img src="https://img.shields.io/badge/Visit%20my%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:david.gmzherrera28@gmail.com"><img src="https://img.shields.io/badge/Drop%20me%20an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/david-g%C3%B3mez-herrera-2405b1232/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+&nbsp;
+<a href="https://david-portafolio-t1av.vercel.app/"><img src="https://img.shields.io/badge/Visit%20my%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
 <br/><br/>
 
@@ -258,7 +313,7 @@ const david = {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B197FC,50:8A63D2,100:6E40C9&height=120&section=footer&animation=fadeIn&reversal=true"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12&height=120&section=footer&animation=fadeIn&reversal=true" alt="footer"/>
 
 <i>"Build systems that outlast the sprint. Ship code that earns trust."</i>
 
